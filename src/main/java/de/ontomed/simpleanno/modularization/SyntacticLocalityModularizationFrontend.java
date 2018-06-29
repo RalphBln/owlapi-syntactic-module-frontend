@@ -24,7 +24,7 @@ public class SyntacticLocalityModularizationFrontend {
      * @param args
      *   args[0]: (IRI) original ontology location
      *   args[1]: (file path) path to the signature file
-     *   args[2]: ("top" | "bottom" | "nested") module type
+     *   args[2]: ("TOP" | "BOTTOM" | "STAR") module type
      *   args[3]: (file path) path to the destination file
      *   args[4]: (IRI) IRI of the extracted ontology module
      */
